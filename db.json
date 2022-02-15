@@ -1,0 +1,28 @@
+{
+    "cryptos": [
+      {
+        "id": 1,
+        "name": "Bitcoin",
+        "symbol": "btc",
+        "quant": 21
+      },
+      {
+        "name": "Ethereum",
+        "id": 2,
+        "symbol": "btc",
+        "quant": 21
+      },
+      {
+        "id": 3,
+        "name": "Litecoin",
+        "symbol": "ltc",
+        "quant": 60
+      },
+      {
+        "id": 4,
+        "name": "Dodge",
+        "symbol": "dodge",
+        "quant": 500
+      }
+    ]
+  }
